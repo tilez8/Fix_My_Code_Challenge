@@ -1,6 +1,6 @@
-# Fix my code
+# 0x00-challenge
 
-[0-fizzbuzz](./0x00-challenge/0-fizzbuzz.py)
+[0-fizzbuzz](./0-fizzbuzz.py)
 
 ```python
 
@@ -24,7 +24,7 @@ elif (i % 3) == 0:
 
 ```
 
-[1-print_square](./0x00-challenge/1-print_square.js)
+[1-print_square](./1-print_square.js)
 
 ```js
 // update this
@@ -37,7 +37,7 @@ size = parseInt(process.argv[2], 10)
 
 ```
 
-[2-sort](./0x00-challenge/2-sort.rb)
+[2-sort](./2-sort.rb)
 
 ```ruby
 # update this
